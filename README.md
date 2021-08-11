@@ -45,7 +45,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/sinthujan-punitharasa-556a14143/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sinthujan%20Punitharasa-blue?style=flat-square&logo=linkedin"></a>
 <a href="sinthujanspp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Sinthujanspp@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
